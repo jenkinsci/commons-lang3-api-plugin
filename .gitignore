@@ -1,6 +1,15 @@
-# IDE Specific exclusions won't be included as that is developer preference and should be managed via their `.gitignore_global`
+target
 
-target/
-work/
+# mvn hpi:run
+work
 
-pom.xml.versionsBackup
+# IntelliJ IDEA project files
+*.iml
+*.iws
+*.ipr
+.idea
+
+# Eclipse project files
+.settings
+.classpath
+.project
