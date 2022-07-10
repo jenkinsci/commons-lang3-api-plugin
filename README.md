@@ -13,9 +13,9 @@ Version will be "&lt;commons-lang version&gt;_&lt;plugin version&gt;", so clear 
 
 ## How to introduce to your plugin
 
-### Plugins directly depending on httpclient
+### Plugins directly depending on commons-lang3
 
-Replace the dependency to `org.apache.httpcomponents:httpclient` with the dependency to `apache-httpcomponents-client-4-api`.
+Replace the dependency to `org.apache.commons:commons-lang3` with the dependency to `commons-lang-api`.
 
 * Before:
     ```
