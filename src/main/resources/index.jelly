@@ -4,5 +4,5 @@
   <br/>
   Usage will slim downstream plugin and not require dependency jar being provided by core Jenkins.
   <br/>
-  Provides org.apache.commons:commons-lang3:${commons-lang3.version}.
+  Provides org.apache.commons:commons-lang3:${revision}.
 </div>
