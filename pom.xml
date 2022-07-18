@@ -12,7 +12,7 @@
     <packaging>hpi</packaging>
     <properties>
         <commons-lang3.version>3.12.0</commons-lang3.version>
-        <jenkins.version>2.289.1</jenkins.version>
+        <jenkins.version>2.289.3</jenkins.version>
     </properties>
     <name>commons-lang3 v3.x Jenkins Api Plugin</name>
     <description>Jenkins Api Plugin to provide org.apache.commons:commons-lang3:${commons-lang3.version}.
