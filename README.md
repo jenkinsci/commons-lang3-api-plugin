@@ -9,7 +9,7 @@ Version will be "&lt;commons-lang version&gt;_&lt;plugin version&gt;", so clear 
 
 ### Plugins directly depending on commons-lang3
 
-Replace the dependency to `org.apache.commons:commons-lang3` with the dependency to `commons-lang-api`.
+Replace the dependency to `org.apache.commons:commons-lang3` with the dependency to `commons-lang3-api`.
 
 * Before:
     ```
