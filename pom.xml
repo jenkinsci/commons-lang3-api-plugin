@@ -14,7 +14,7 @@
     <properties>
         <revision>3.12.0</revision>
         <changelist>999999-SNAPSHOT</changelist>
-        <jenkins.version>2.289.1</jenkins.version>
+        <jenkins.version>2.361.4</jenkins.version>
         <gitHubRepo>jenkinsci/${project.artifactId}-plugin</gitHubRepo>
     </properties>
     <name>commons-lang3 v3.x Jenkins API Plugin</name>
