@@ -18,6 +18,8 @@
         <jenkins.baseline>2.479</jenkins.baseline>
         <jenkins.version>${jenkins.baseline}.3</jenkins.version>
         <gitHubRepo>jenkinsci/${project.artifactId}-plugin</gitHubRepo>
+        <hpi.bundledArtifacts>commons-lang3</hpi.bundledArtifacts>
+        <hpi.strictBundledArtifacts>true</hpi.strictBundledArtifacts>
     </properties>
     <name>commons-lang3 v3.x Jenkins API Plugin</name>
     <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
